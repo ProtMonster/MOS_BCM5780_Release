@@ -48,8 +48,8 @@ version SYS:Devs/Networks/bcm5780_eth.device
 
 ## Feedback
 
-Please report results (working or not) either in the morph.zone forum
-thread or as a GitHub issue. Useful information:
+Please report results (working or not) in the morph.zone forum thread.
+Useful information:
 
 - Machine model and MorphOS version
 - Which port (unit 0 / unit 1) you used

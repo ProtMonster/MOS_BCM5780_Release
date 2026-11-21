@@ -7,7 +7,7 @@ under **MorphOS 3.x**.
 MorphOS supports the on-board Ethernet of the G5 only on PowerMac7,x
 models. This driver makes the on-board ports usable on PowerMac11,2.
 
-**Status: beta (v0.8).** Tested so far only on the author's machine.
+**Status: beta (v0.10).** Tested so far only on the author's machine.
 Testers with a PowerMac11,2 are welcome – see "Feedback" below.
 
 ## Download
